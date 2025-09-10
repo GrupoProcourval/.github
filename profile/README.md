@@ -3,7 +3,7 @@
 Bienvenidos al perfil oficial de **Grupo Procourval** en GitHub.  
 Nos especializamos en soluciones corporativas que impulsan la eficiencia, la innovación y la transformación digital.
 
-![Logo Grupo Procourval](https://github.com/GrupoProcourval/.github/blob/main/logo.jpg?raw=true)
+![Logo Grupo Procourval](https://github.com/GrupoProcourval/.github/blob/main/logo_completo2.jpg?raw=true)
 
 ---
 
